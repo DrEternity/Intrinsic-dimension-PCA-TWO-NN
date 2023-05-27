@@ -2,4 +2,4 @@
 Внутренней размерностью датасета называют количество переменных, необходимых для минимального представления данных.    
 В этой работе я изучил два метода: C-PCA и TWO-NN.    
 
-![картинка](https://github.com/DrEternity/Gram_Schmidt_process/tree/main)
+![картинка](https://github.com/DrEternity/Intrinsic-dimension-PCA-TWO-NN-/blob/main/id.jpg)
